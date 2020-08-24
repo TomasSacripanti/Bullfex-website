@@ -6,7 +6,8 @@ import './Navigation.css';
 
 const Navigation = () => {
     return (
-        <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-white navegation w-100">
+        <nav className="navbar fixed-top navbar-expand-sm navbar-light bg-white navegation d-flex justify-content-center">
+            <div class="nav-content">
                 <figure className="img-container">
                     <img src={logotipo}></img>
                 </figure>
@@ -41,7 +42,8 @@ const Navigation = () => {
                         </li>
                     </ul>
                 </div>
-            </nav>
+            </div>
+        </nav>
     );
 }
 
