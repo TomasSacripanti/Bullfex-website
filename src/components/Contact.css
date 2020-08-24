@@ -1,0 +1,10 @@
+form {
+    border: 1px solid #ccc;
+    background-color: white;
+    border-radius: 5px;
+    padding: 25px 35px;
+    min-height: 380px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

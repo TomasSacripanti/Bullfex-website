@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contain {
+    width: 90%;
+    margin: auto;
+}
+.head {
+    height: 60px;
+    position: relative;
+}
+.navegation {
+    height: 60px;
+    box-shadow: 0 3px 30px 1px gray;
+}
+.img-container {
+    width: 10%;
+    margin: 0;
+    position: relative;
+}
+.img-container > img {
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: -15px;
+}
+#navbarNavDropdown {
+    display: flex;
+    justify-content: flex-end;
+}
+.ullist {
+    width: 75%;
+    display: flex;
+    justify-content: space-around;
+}
+.ullist > li > a {
+    font-size: 1.1em;
+}
