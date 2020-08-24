@@ -4,7 +4,7 @@ import logotipo from '../images/logotipo-bullfex.svg';
 
 const Footer = () => {
     return (
-        <footer className="contain d-flex align-items-center">
+        <footer className="d-flex align-items-center">
             <div className="row w-100 h-100 pt-5">
                 <div className="col-3  d-flex flex-column justify-content-start align-items-center">
                     <figure>

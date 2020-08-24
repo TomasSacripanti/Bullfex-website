@@ -1,16 +1,17 @@
+footer {
+    height: 300px;
+    width: 95%;
+    margin: 0 auto;
+}
+footer  figure {
+    width: 40%;
+}
 i {
     color: rgba(0,0,0,.5);
 }
 
 ul {
     list-style: none;
-}
-footer {
-    height: 300px;
-
-}
-footer  figure {
-    width: 120px;
 }
 .lista-des > li > a {
     color: rgba(0,0,0,.5);
