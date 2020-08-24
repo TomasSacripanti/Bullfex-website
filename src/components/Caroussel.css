@@ -1,6 +1,7 @@
 .main {
     width: 100%;
     height: calc(100vh - 60px);
+    margin-top: 60px;
 }
 #carouselExampleControls {
     width: 100%;
