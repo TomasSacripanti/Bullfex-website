@@ -53,7 +53,7 @@ const ServicesCard = () => {
                         </div>
                     </div>
                 </div>
-                <div className="row justify-content-center">
+                <div className="row justify-content-center mt-3">
                     <div className="col-sm-4 mx-4">
                         <div className="card">
                             <div className="image-container">
